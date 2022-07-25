@@ -1,5 +1,5 @@
 # Learn Git & Github
-## Mentor : Huda Bikhoir
+## Mentor : Nurhuda Bikhoir
 
 ### GitHub is a project management, code versioning system, as well as a social networking platform for developers around the world. There are so many functions that can be used by developers, so that through this platform it is easier for developers to develop a work.
 
